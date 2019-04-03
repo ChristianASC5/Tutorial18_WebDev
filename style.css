@@ -31,3 +31,12 @@ button{
     background-color: rgb(255, 79, 79);
     color: white;
 }
+
+input{
+    border-radius: 3px;
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    margin-bottom: 5px;
+
+}
