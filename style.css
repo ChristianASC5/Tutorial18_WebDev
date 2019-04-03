@@ -31,6 +31,9 @@ button{
     background-color: rgb(255, 79, 79);
     color: white;
 }
+button:hover{
+    cursor: pointer;
+}
 
 input{
     border-radius: 3px;
