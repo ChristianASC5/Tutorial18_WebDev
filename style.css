@@ -26,6 +26,15 @@ li{
     font-weight: bold;  
 }
 
+p{
+    width: 43vh;
+    font-weight: bold;
+    border-radius: 3px;
+    border-style: outset;
+    background-color: rgb(255, 79, 79);
+    color: white;
+}
+
 button{
     border-radius: 3px;
     background-color: rgb(255, 79, 79);
